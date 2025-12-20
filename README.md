@@ -17,10 +17,6 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 - Applied Label Encoding for categorical features
 - Used Normalization and Standardization techniques
 - Implemented Train-Test Split
-- sfg
-- fgfge
-- gefegwef
-- fgrfegef
 - rgrrgfr
 - Created data visualizations for trends and insights
 
