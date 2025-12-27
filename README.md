@@ -10,7 +10,7 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 - Matplotlib
 - Seaborn
 - Scikit-learn
- 
+  
 ## 🔍 Project Features
 - Performed EDA using head(), tail(), info(), and describe()
 - Handled missing values and duplicate records
