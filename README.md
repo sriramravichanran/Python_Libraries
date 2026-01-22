@@ -14,7 +14,7 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 ## 🔍 Project Features 
 - Performed EDA using head(), tail(), info(), and describe()
 - Handled missing values and duplicate records
-- Applied Label Encoding for categorical features
+- Applied Label Encoding for categorical features 
 - Used Normalization and Standardization techniques 
 - Implemented Train-Test Split
 - Created data visualizations for trends and insights
