@@ -11,7 +11,7 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 - Seaborn
 - Scikit-learn 
    
-## 🔍 Project Features 
+## 🔍 Project Features  
 - Performed EDA using head(), tail(), info(), and describe()  
 - Handled missing values and duplicate records  
 - Applied Label Encoding for categorical features 
