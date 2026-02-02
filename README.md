@@ -7,7 +7,7 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+- Matplotlib 
 - Seaborn 
 - Scikit-learn 
    
