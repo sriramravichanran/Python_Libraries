@@ -5,7 +5,7 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 
 ## 🛠️ Tools & Libraries Used
 - Python
-- Pandas 
+- Pandas  
 - NumPy
 - Matplotlib  
 - Seaborn   
