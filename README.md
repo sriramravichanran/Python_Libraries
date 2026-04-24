@@ -17,7 +17,7 @@ This project focuses on analyzing the IPL dataset using Python and popular data 
 - Applied Label Encoding for categorical features 
 - Used Normalization and Standardization techniques 
 - Implemented Train-Test Split 
-- Created data visualizations for trends and insights
+- Created data visualizations for trends and insights  
  
 ## 📊 Sample Visualizations
 # IPL Data Analysis & Machine Learning using Python
